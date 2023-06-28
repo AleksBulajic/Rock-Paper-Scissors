@@ -1,0 +1,9 @@
+.game-container{
+    flex-direction: column;
+    justify-content: center;
+    
+}
+
+.buttons { 
+margin: 5px 5px 5px 5px  ;
+}
